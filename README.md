@@ -4,7 +4,7 @@
 
 - Add this to your `tmux.conf` file:
 
-        set -g @plugin 'jglievano/simple_tmux_theme'
+        set -g @plugin 'rgnns/simple_tmux_theme'
 
 - Use the shortcut `prefix` + `I` to install the plugin (w/[TPM]).
 
